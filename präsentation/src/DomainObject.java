@@ -7,6 +7,9 @@ public class DomainObject {
 	protected String uuid = "testString";
 	private String name;
 	private String comment;
+	/**
+	 * This is a counter
+	 */
 	private int counter;
 
 	/**
