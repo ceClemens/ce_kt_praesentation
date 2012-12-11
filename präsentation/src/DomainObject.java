@@ -7,6 +7,7 @@ public class DomainObject {
 	protected String uuid = "testString";
 	private String name;
 	private String comment;
+	private int counter;
 
 	/**
 	 * Default constructor
