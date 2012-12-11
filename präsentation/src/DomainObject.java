@@ -25,6 +25,10 @@ public class DomainObject {
 	}
 
 
+	/**
+	 * getName function
+	 * @return
+	 */
 	public String getName() {
 		return name;
 	}
