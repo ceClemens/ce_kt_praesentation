@@ -15,6 +15,11 @@ public class DomainObject {
 		super();
 	}
 
+	/**
+	 * Not default constructor
+	 * @param name
+	 * @param comment
+	 */
 	protected DomainObject(String name, String comment) {
 		super();
 	}
