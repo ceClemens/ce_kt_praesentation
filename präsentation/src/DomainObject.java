@@ -4,7 +4,7 @@ import java.util.UUID;
 
 public class DomainObject {
 
-	private String uuid = "testString2";
+	protected String uuid = "testString";
 	private String name;
 	private String comment;
 
