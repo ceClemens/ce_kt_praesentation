@@ -34,4 +34,12 @@ public class DomainObject {
 		return name;
 	}
 
+	public int getCounter() {
+		return counter;
+	}
+
+	public void setCounter(int counter) {
+		this.counter = counter;
+	}
+
 }
